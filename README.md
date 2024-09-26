@@ -19,9 +19,9 @@ This project involves the analysis of a dataset containing various health parame
     8. Model training and evaluation using three different algorithms: Logistic Regression, Decision Tree, and Support Vector Machine (SVM).
 ## Importing Libraries and Dataset
   ```bash
-       import pandas as pd
-  ```bash 
-      import NumPy as np
+    #   import pandas as pd
+    ```bash 
+     ## import NumPy as np
   ```bash
       *Seaborn
       *Scikit-learn
