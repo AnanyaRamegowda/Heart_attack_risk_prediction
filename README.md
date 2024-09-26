@@ -22,6 +22,7 @@ This project involves the analysis of a dataset containing various health parame
        import pandas as pd
 ```bash 
       import NumPy as np
+```bash
       *Seaborn
       *Scikit-learn
       *Matplotlib
