@@ -17,12 +17,12 @@ This project involves the analysis of a dataset containing various health parame
     6. Splitting the data into training and testing sets.
     7. Hyperparameter tuning for machine learning models.
     8. Model training and evaluation using three different algorithms: Logistic Regression, Decision Tree, and Support Vector Machine (SVM).
-##### Importing Libraries and Dataset
-```bash
+## Importing Libraries and Dataset
+  ```bash
        import pandas as pd
-```bash 
+  ```bash 
       import NumPy as np
-```bash
+  ```bash
       *Seaborn
       *Scikit-learn
       *Matplotlib
