@@ -8,7 +8,7 @@ This project predicts the risk of a heart attack based on various health paramet
 *Make healthcare decisions easier with accurate, automated predictions.
 #### Brief Description About The Project
 This project involves the analysis of a dataset containing various health parameters and a binary classification task to predict the presence or absence of heart disease in individuals. The project consists of the following major steps:
-```bash
+
     1. Importing libraries and datasets.
     2. Data understanding and exploration.
     3. Data preprocessing and cleaning.
@@ -19,8 +19,9 @@ This project involves the analysis of a dataset containing various health parame
     8. Model training and evaluation using three different algorithms: Logistic Regression, Decision Tree, and Support Vector Machine (SVM).
 ##### Importing Libraries and Dataset
 ```bash
-      *Pandas
-      *NumPy
+       import pandas as pd
+```bash 
+      import NumPy as np
       *Seaborn
       *Scikit-learn
       *Matplotlib
