@@ -20,11 +20,11 @@ This project involves the analysis of a dataset containing various health parame
 ## Importing Libraries and Dataset
     1.pandas 
          ```bash 
-         import pandas as pd
+            import pandas as pd
     2.Numpy
          ``` bash
-         import numpy as np
- NumPy 
+            import numpy as np
+ 
   
       *Seaborn
       *Scikit-learn
